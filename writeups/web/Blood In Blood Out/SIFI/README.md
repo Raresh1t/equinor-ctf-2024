@@ -3,6 +3,12 @@ Task Author: LOLASL
 
 Writeup author: Raresh1t (SIFI)
 
+Potentially Exploited CVE:
+
+CVE-2024-21733
+
+PoC on: https://hackerone.com/reports/2327341
+
 **Task text:** 
 
 *Hey carnal, sometimes you gotta slide in a little extra something for the homies. Theres a placa looking every minute so keep it tight, ese.*
